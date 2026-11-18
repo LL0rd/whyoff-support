@@ -12,7 +12,7 @@ WhyOff ist die Oberfläche für das separat gestartete lokale Kommandozeilenprog
 
 ### WhyOff mit dem Diagnoseprogramm koppeln
 
-Öffne im Terminal den entpackten aOSnetTools-Ordner und führe `./bin/aosnettools serve` aus. Wenn du das Programm bereits im Suchpfad installiert hast, genügt `aosnettools serve`. Lass das Terminalfenster offen. Klicke in WhyOff auf „Verbinden“ und füge den angezeigten Kopplungscode ein. Mit Ping auf `127.0.0.1` kannst du die Kopplung ohne zweite Gegenstelle prüfen.
+Öffne im Terminal den entpackten aOSnetTools-Ordner und führe `./bin/aosnettools serve` aus. Wenn du das Programm bereits im Suchpfad installiert hast, genügt `aosnettools serve`. Lass das Terminalfenster offen. Öffne in WhyOff „Verbinden …“, füge den Kopplungscode aus dem Terminal ein und drücke die Eingabetaste oder klicke im Dialog auf „Verbinden“. Mit Ping auf `127.0.0.1` kannst du die Kopplung ohne zweite Gegenstelle prüfen.
 
 ### Den ersten kostenlosen Automatiklauf starten
 
@@ -38,7 +38,7 @@ WhyOff is the interface for the separately started local “aOSnetTools” comma
 
 ### Pairing WhyOff with the diagnostic program
 
-In Terminal, open the extracted aOSnetTools folder and run `./bin/aosnettools serve`. If the program is already on your shell’s search path, run `aosnettools serve`. Keep Terminal open. Choose Connect in WhyOff and paste the pairing code shown in Terminal. Run Ping against `127.0.0.1` to check the connection on this Mac.
+In Terminal, open the extracted aOSnetTools folder and run `./bin/aosnettools serve`. If the program is already on your shell’s search path, run `aosnettools serve`. Keep Terminal open. Choose Connect in WhyOff, paste the pairing code shown in Terminal, then press Return or click Connect in the dialog. Run Ping against `127.0.0.1` to check the connection on this Mac.
 
 ### Running your first free Automatic check
 
